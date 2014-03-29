@@ -1,12 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>
-            http://BSidesCLT.github.com/blog/2013/03/23/announcing-bsides-self-centered-security/
-        </loc>
-        <lastmod>2013-05-24T12:02:11-04:00</lastmod>
-    </url>
-    <url>
         <loc>http://BSidesCLT.github.com/cfp/</loc>
         <lastmod>2013-03-23T21:39:08-04:00</lastmod>
     </url>
@@ -32,15 +26,15 @@
     </url>
     <url>
         <loc>http://BSidesCLT.github.com/</loc>
-        <lastmod>2013-03-23T22:14:57-04:00</lastmod>
+        <lastmod>2013-03-23T20:07:26-04:00</lastmod>
     </url>
     <url>
         <loc>http://BSidesCLT.github.com/blog/archives/</loc>
-        <lastmod>2013-03-23T22:14:57-04:00</lastmod>
+        <lastmod>2013-03-23T20:07:26-04:00</lastmod>
     </url>
     <url>
         <loc>http://BSidesCLT.github.com/blog/</loc>
-        <lastmod>2013-03-23T22:14:57-04:00</lastmod>
+        <lastmod>2013-03-23T20:07:26-04:00</lastmod>
     </url>
     <url>
         <loc>http://BSidesCLT.github.com/ctf/</loc>
@@ -56,6 +50,6 @@
     </url>
     <url>
         <loc>http://BSidesCLT.github.com/sponsor/</loc>
-        <lastmod>2013-03-23T21:44:41-04:00</lastmod>
+        <lastmod>2014-03-29T10:51:06-04:00</lastmod>
     </url>
 </urlset>
