@@ -1,20 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://BSidesCLT.github.com/cfp/</loc>
-        <lastmod>2013-03-23T21:39:08-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://BSidesCLT.github.com/location/</loc>
-        <lastmod>2014-03-28T21:43:48-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://BSidesCLT.github.com/robots.txt</loc>
-        <lastmod>2013-03-23T20:07:25-04:00</lastmod>
-    </url>
-    <url>
-        <loc>http://BSidesCLT.github.com/archives/2013/location/</loc>
-        <lastmod>2013-03-23T21:39:52-04:00</lastmod>
+        <loc>
+            http://BSidesCLT.github.com/blog/2013/03/23/announcing-bsides-self-centered-security/
+        </loc>
+        <lastmod>2013-05-24T12:02:11-04:00</lastmod>
     </url>
     <url>
         <loc>http://BSidesCLT.github.com/archives/2013/sponsors/</loc>
@@ -25,31 +15,55 @@
         <lastmod>2013-05-24T13:30:57-04:00</lastmod>
     </url>
     <url>
+        <loc>http://BSidesCLT.github.com/archives/2013/location/</loc>
+        <lastmod>2013-03-23T21:39:52-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://BSidesCLT.github.com/archives/</loc>
+        <lastmod>2015-01-23T13:36:14-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://BSidesCLT.github.com/archives/2014/</loc>
+        <lastmod>2015-01-23T13:26:22-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://BSidesCLT.github.com/</loc>
-        <lastmod>2013-03-23T20:07:26-04:00</lastmod>
+        <lastmod>2013-03-23T22:14:57-04:00</lastmod>
     </url>
     <url>
-        <loc>http://BSidesCLT.github.com/blog/archives/</loc>
-        <lastmod>2013-03-23T20:07:26-04:00</lastmod>
+        <loc>http://BSidesCLT.github.com/cfp/</loc>
+        <lastmod>2015-01-23T11:50:04-05:00</lastmod>
     </url>
     <url>
-        <loc>http://BSidesCLT.github.com/blog/</loc>
-        <lastmod>2013-03-23T20:07:26-04:00</lastmod>
+        <loc>http://BSidesCLT.github.com/sponsor/</loc>
+        <lastmod>2014-03-29T11:05:56-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://BSidesCLT.github.com/</loc>
+        <lastmod>2015-01-23T20:49:08-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://BSidesCLT.github.com/robots.txt</loc>
+        <lastmod>2013-03-23T20:07:25-04:00</lastmod>
     </url>
     <url>
         <loc>http://BSidesCLT.github.com/ctf/</loc>
         <lastmod>2013-03-23T21:39:27-04:00</lastmod>
     </url>
     <url>
-        <loc>http://BSidesCLT.github.com/</loc>
-        <lastmod>2014-03-28T21:49:48-04:00</lastmod>
-    </url>
-    <url>
         <loc>http://BSidesCLT.github.com/schedule/</loc>
         <lastmod>2014-03-28T21:40:55-04:00</lastmod>
     </url>
     <url>
-        <loc>http://BSidesCLT.github.com/sponsor/</loc>
-        <lastmod>2014-03-29T11:05:56-04:00</lastmod>
+        <loc>http://BSidesCLT.github.com/blog/archives/</loc>
+        <lastmod>2013-03-23T22:14:57-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://BSidesCLT.github.com/blog/</loc>
+        <lastmod>2013-03-23T22:14:57-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://BSidesCLT.github.com/location/</loc>
+        <lastmod>2014-03-28T21:43:48-04:00</lastmod>
     </url>
 </urlset>
