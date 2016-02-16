@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://BSidesCLT.github.com/sitemap.xml 
