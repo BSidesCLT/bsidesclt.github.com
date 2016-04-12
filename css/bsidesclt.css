@@ -15,8 +15,16 @@ h3 {
   font-size: 1.7em;
 }
 
-p {
+h4 {
+  font-size: 1.45em;
+}
+
+h5 {
   font-size: 1.2em;
+}
+p {
+  font-size: 1.1em;
+  line-height: 1.5em;
 }
 
 i {
@@ -64,6 +72,11 @@ footer {
   max-height: 225px;
 }
 
+/* Scheduling Page */
+.schedule .row {
+  margin-bottom: 35px;
+}
+
 /* Medium and up */
 @media screen and (min-width: 40em) {
   h2 {
@@ -73,6 +86,13 @@ footer {
     font-size: 1.9em;
   }
 
+  h4 {
+    font-size: 1.5625rem;
+  }
+
+  h5 {
+    font-size: 1.25rem;
+  }
 }
 
 /* Large and up */
