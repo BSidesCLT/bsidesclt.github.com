@@ -72,13 +72,11 @@ footer {
   max-height: 225px;
 }
 
-<<<<<<< HEAD
 /* Scheduling Page */
 .schedule .row {
   margin-bottom: 35px;
 }
 
-=======
 .sponsors-group {
   text-align: center;
   background: #fff;
@@ -100,8 +98,6 @@ footer {
   padding: 20px;
 }
 
-
->>>>>>> add-sponsors
 /* Medium and up */
 @media screen and (min-width: 40em) {
   h2 {
