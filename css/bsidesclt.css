@@ -64,6 +64,28 @@ footer {
   max-height: 225px;
 }
 
+.sponsors-group {
+  text-align: center;
+  background: #fff;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.sponsors-group hr {
+  max-width: 425px;
+}
+
+.sponsors-tier {
+  text-align: center;
+}
+
+.sponsors-tier img {
+  max-width: 400px;;
+  padding: 20px;
+}
+
+
 /* Medium and up */
 @media screen and (min-width: 40em) {
   h2 {
