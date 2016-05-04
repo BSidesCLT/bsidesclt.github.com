@@ -94,8 +94,12 @@ footer {
 }
 
 .sponsors-tier img {
-  max-width: 400px;;
+  max-width: 100%;
   padding: 20px;
+}
+
+.details div {
+  margin-bottom: 40px;
 }
 
 /* Medium and up */
@@ -113,6 +117,10 @@ footer {
 
   h5 {
     font-size: 1.25rem;
+  }
+
+  .sponsors-tier img {
+    max-width: 400px;
   }
 }
 
